@@ -1,0 +1,4 @@
+# Excluimos los archivos de la carpeta git
+.git
+.dockerignore
+/docker
